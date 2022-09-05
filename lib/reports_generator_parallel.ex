@@ -21,30 +21,25 @@ defmodule ReportsGeneratorParallel do
       %{
         "all_hours" => %{
           "cleiton" => 13797,
-          "daniele" => 13264,
-          ...
+          "daniele" => 13264
         },
         "hours_per_month" => %{
           "cleiton" => %{
             "abril" => 1161,
             "agosto" => 1149,
-            "dezembro" => 1100,
-            ...
+            "dezembro" => 1100
           },
           "daniele" => %{
             "abril" => 1138,
-            ...
           }
         },
         "hours_per_year" => %{
           "cleiton" => %{
             2016 => 2699,
-            2017 => 2684,
-            ...
+            2017 => 2684
           },
           "daniele" => %{
-            2016 => 2573,
-            ...
+            2016 => 2573
           }
         }
       }
@@ -53,30 +48,25 @@ defmodule ReportsGeneratorParallel do
       %{
         "all_hours" => %{
           "cleiton" => 13797,
-          "daniele" => 13264,
-          ...
+          "daniele" => 13264
         },
         "hours_per_month" => %{
           "cleiton" => %{
             "abril" => 1161,
             "agosto" => 1149,
-            "dezembro" => 1100,
-            ...
+            "dezembro" => 1100
           },
           "daniele" => %{
-            "abril" => 1138,
-            ...
+            "abril" => 1138
           }
         },
         "hours_per_year" => %{
           "cleiton" => %{
             2016 => 2699,
-            2017 => 2684,
-            ...
+            2017 => 2684
           },
           "daniele" => %{
-            2016 => 2573,
-            ...
+            2016 => 2573
           }
         }
       }
